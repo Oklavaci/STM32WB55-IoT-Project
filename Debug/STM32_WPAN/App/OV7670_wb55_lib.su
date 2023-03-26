@@ -1,0 +1,5 @@
+../STM32_WPAN/App/OV7670_wb55_lib.c:125:5:ov7670_read	24	static
+../STM32_WPAN/App/OV7670_wb55_lib.c:141:5:ov7670_write	32	static
+../STM32_WPAN/App/OV7670_wb55_lib.c:152:5:ov7670_init	8	static
+../STM32_WPAN/App/OV7670_wb55_lib.c:165:5:ov7670_config	16	static
+../STM32_WPAN/App/OV7670_wb55_lib.c:183:6:get_frame	24	static

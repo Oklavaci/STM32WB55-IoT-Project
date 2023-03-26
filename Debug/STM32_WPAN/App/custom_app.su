@@ -1,0 +1,11 @@
+../STM32_WPAN/App/custom_app.c:96:6:Custom_STM_App_Notification	16	static
+../STM32_WPAN/App/custom_app.c:148:6:Custom_APP_Notification	16	static
+../STM32_WPAN/App/custom_app.c:185:6:Custom_APP_Init	8	static
+../STM32_WPAN/App/custom_app.c:212:6:Custom_Switch_c_Update_Char	16	static
+../STM32_WPAN/App/custom_app.c:231:6:Custom_Switch_c_Send_Notification	24	static
+../STM32_WPAN/App/custom_app.c:289:6:GetFrameAction	8	static
+../STM32_WPAN/App/custom_app.c:300:6:P2PS_APP_SW1_Button_Action	8	static
+../STM32_WPAN/App/custom_app.c:310:6:P2PS_APP_SW2_Button_Action	8	static
+../STM32_WPAN/App/custom_app.c:320:6:P2PS_APP_SW3_Button_Action	8	static
+../STM32_WPAN/App/custom_app.c:326:6:P2PS_APP_Client_Action	8	static
+../STM32_WPAN/App/custom_app.c:332:6:P2PS_APP_Tim_Action	8	static

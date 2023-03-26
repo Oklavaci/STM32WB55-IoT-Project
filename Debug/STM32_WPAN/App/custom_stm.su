@@ -1,0 +1,5 @@
+../STM32_WPAN/App/custom_stm.c:114:12:P2PS_NOTIFY_INT8	32	static
+../STM32_WPAN/App/custom_stm.c:135:12:P2PS_NOTIFY_INT16	64	dynamic
+../STM32_WPAN/App/custom_stm.c:169:30:Custom_STM_Event_Handler	48	static
+../STM32_WPAN/App/custom_stm.c:309:6:SVCCTL_InitCustomSvc	56	static
+../STM32_WPAN/App/custom_stm.c:405:12:Custom_STM_App_Update_Char	32	static
