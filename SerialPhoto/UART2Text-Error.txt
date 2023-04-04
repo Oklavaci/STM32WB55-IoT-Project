@@ -1,1 +1,0 @@
-Check the UART2Text.py. Stop bit is not equal to the expected value
