@@ -6,7 +6,7 @@ UM2435 - User manual		- Bluetooth® Low Energy and 802.15.4 Nucleo pack based on
 Guide  - https://bit.ly/3vJVA5T - Getting Started with STM32WB and BLE Communications
 Wiki   - https://wiki.st.com/stm32mcu/wiki/Connectivity:STM32WB_BLE_STM32CubeMX
 
-Report - Görüntü Yakalama Süreç Raporu by Haktan Yalçın
+Image Capturing Report - Görüntü Yakalama Süreç Raporu by Haktan Yalçın
 
 -------------------------------------------------------------------------------------------------------------
 
