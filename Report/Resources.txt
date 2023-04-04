@@ -1,0 +1,12 @@
+PM0271 - Programming Manual - STM32WB BLE stack programming guidelines
+AN5270 - Application Note 	- STM32WB Bluetooth® Low Energy wireless interface
+AN5289 - Application Note   - Building wireless applications with STM32WB Series microcontrollers
+UM2435 - User manual		- Bluetooth® Low Energy and 802.15.4 Nucleo pack based on STM32WB Series microcontrollers
+
+Guide  - https://bit.ly/3vJVA5T - Getting Started with STM32WB and BLE Communications
+Wiki   - https://wiki.st.com/stm32mcu/wiki/Connectivity:STM32WB_BLE_STM32CubeMX
+
+Report - Görüntü Yakalama Süreç Raporu by Haktan Yalçın
+
+-------------------------------------------------------------------------------------------------------------
+
